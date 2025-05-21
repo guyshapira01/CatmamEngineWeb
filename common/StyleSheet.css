@@ -1,0 +1,24 @@
+﻿
+body 
+{
+	font-size:12px;
+	font-family:Arial;
+}
+div
+{font-size:12px;
+	font-family:Arial;
+}
+td
+{
+	font-size:12px;
+	font-family:Arial;
+}
+.headerText
+{
+	font-size:14px;
+}
+.headerTextBold
+{
+	font-size:14px;
+	font-weight:bold;
+}
